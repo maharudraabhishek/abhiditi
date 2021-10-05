@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @abhiditi🔱
-- ✨ Founder of HaraShakam🌿 - online fruits, vegetables and daily essentials e-commerce startup
+- Currently, working as Software Engineer at @heremaps
+- ✨ Founded of HaraShakam🌿 - online fruits, vegetables and daily essentials e-commerce startup
 - 🔗 https://harashakam.com/
 - 👀 I’m interested and working on Android, Flutter, Machine Learning, Deep Learning, UI Development, Shell Scripting
 - 🌱 Learning is a life long process... like the infinite universe
-- 💞️ I’m looking for an opportunity to advance my career to a higher level
 - 📫 Reach me at abhishek@harashakam.com
 
 <!---
