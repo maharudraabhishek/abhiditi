@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhiditi🔱
+- 👋 Hi, I’m @maharudraabhishek 🔱
 - Currently, working as Software Engineer at @heremaps
 - ✨ Founder of HaraShakam🌿 - online fruits, vegetables and daily essentials e-commerce startup
 - 🔗 https://harashakam.com/
